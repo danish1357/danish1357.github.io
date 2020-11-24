@@ -10,6 +10,14 @@
 			"footer": "/7176/TOI_App_Android/TOI_APP_AOS_Notifications/TOI_App_AOS_NOTI_BTF"
 		}
 	},
+	"campaigns": {
+		"56gdgdg77": {
+			"languageCode": 1
+		},
+		"56gdgdg78": {
+			"languageCode": 2
+		}
+	},
 	"channels": [{
 		"imageurl": "https://opt.toiimg.com/recuperator/imgserver/serve?native=true&source=http%3A%2F%2Ftimesofindia.indiatimes.com%2Fphoto.cms%3Fphotoid%3D49386078",
 		"caption": "India's most watched english news channel",
@@ -168,7 +176,7 @@
 			"oth": "l"
 		},
 		"dfpadupd": "1569313014000",
-		"feedurllistupd": "1603178047000",
+		"feedurllistupd": "1605163279000",
 		"adBitRate": "128",
 		"videoAdTimeout": "7",
 		"consentCount": 210,
@@ -267,8 +275,6 @@
 		"plus_ad_free_text": "Ads-free experience",
 		"plus_content_text": "",
 		"consent_intro_text": "We have updated our <b><a href='https://www.indiatimes.com/privacypolicy/'> Privacy Policy </a></b> for our users who are in the European Union. Please read the updated policies carefully. While we continue to provide access to our App and services to our users in the European Union, with effect from May 25, 2018 we will not be targeting or collecting any personal information about them. Our App will only collect, store or process limited user information which is necessary for providing our users access to the App.",
-		"ca_consent_intro_text": "We have updated our <b><a href='https://www.indiatimes.com/privacypolicy/'> Privacy Policy </a></b> for our users who are in the European Union. Please read the updated policies carefully. While we continue to provide access to our App and services to our users in the European Union, with effect from May 25, 2018 we will not be targeting or collecting any personal information about them. Our App will only collect, store or process limited user information which is necessary for providing our users access to the App.",
-
 		"recommended_apps": "Recommended Apps",
 		"image_popup_text": "Download images for",
 		"add_comment": "Add a comment",
@@ -335,7 +341,8 @@
 		"db_morning_text": "EVERYTHING YOU NEED TO KNOW TO START YOUR DAY...",
 		"db_evening_text": "HERE'S A WRAP OF THE DAY'S NEWS STORIES...",
 		"db_subscribe_success": "You are now subscribed to Daily Brief alerts. You can always change this via Settings",
-		"mkt_Subscribe_success": "You are now subscribed to Market alerts. You can always change this via Settings"
+		"mkt_Subscribe_success": "You are now subscribed to Market alerts. You can always change this via Settings",
+		"ca_consent_intro_text": "Test consent ccpa text"
 	},
 	"switch": {
 		"isParallaxAdEnabled": true,
@@ -353,7 +360,7 @@
 		"isCTNVideoAdAutoPlayEnabled": true,
 		"isCTNVideoAdsEnabled": true,
 		"isMrecEnabled": true,
-		"isElectionHomeWidgetEnabled": false,
+		"isElectionHomeWidgetEnabled": true,
 		"isDFPAdEnabled": true,
 		"isDFPVideoAdEnabled": true,
 		"isHomeTopWidgetEnabled": false,
