@@ -21,6 +21,7 @@
 			"hl": "It happens only in India!",
 			"cc": "#FFFFFF",
 			"fontsize": "",
+			"placement": "top",
 			"hideheadline": "true"
 		},
 		"ag": "TIMESOFINDIA.COM",
@@ -38,7 +39,6 @@
 			"dm": "t",
 			"cc": "#FFFFFF",
 			"bg_cc": "",
-			"placement": "top",
 			"h": "65",
 			"w": "850"
 		}],
