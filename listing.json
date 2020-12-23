@@ -7,7 +7,8 @@
 	},
 	"ads": {
 		"ctnfooter": "334766",
-		"footer": "/7176/TOI_App_Android/TOI_APP_Tes/TOI_APP_Test_BTF1",
+		"footer_size": ["adaptive"],
+		"footer": "/7176/TOI_App_Test/TOI_App_Test_BTF1",
 		"securl": "https://m.timesofindia.com/",
 		"inlinefullscreen": {
 			"adcode": "333417",
