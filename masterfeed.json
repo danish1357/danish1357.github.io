@@ -11,11 +11,8 @@
 		}
 	},
 	"campaigns": {
-		"56gdgdg77": {
-			"languageCode": 1
-		},
-		"56gdgdg78": {
-			"languageCode": 2
+		"658477339": {
+			"deeplink": "toiapp://open-$|$-id=Home-01-$|$-lang=2"
 		}
 	},
 	"channels": [{
@@ -159,6 +156,7 @@
 		"cubeDisableCount": "2",
 		"old_story_limit_hrs": "2160",
 		"DFPInterstitialScreenCount": 5,
+		"deferredLinkWaitingTime": 10,
 		"cmp": {
 			"n": "d",
 			"l": "h",
