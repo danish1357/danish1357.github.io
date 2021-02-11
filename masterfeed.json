@@ -156,7 +156,7 @@
 		"cubeDisableCount": "2",
 		"old_story_limit_hrs": "2160",
 		"DFPInterstitialScreenCount": 5,
-		"deferredLinkWaitingTime": 20,
+		"deferredLinkWaitingTime": 5,
 		"cmp": {
 			"n": "d",
 			"l": "h",
