@@ -1,0 +1,31 @@
+{
+	"lang": 1,
+	"defaultSelectedSectionId": "Home-01",
+	"isToRetainUserSelection": true,
+	"bottomBarSections": [{
+		"uid": "Home-01",
+		"name": "Home",
+		"engName": "Home",
+		"defaulturl": "https://plus.timesofindia.com/toi-feed/feed/toia/listing/topnews?lang=1&fv=663&asset=bn,ad,ma,wd&isincountry=<isincountry>&cc=<cc>",
+		"actionBarTitleName": "Home"
+	}, {
+		"uid": "City-01",
+		"name": "City",
+		"engName": "City",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=android&andver=648&adreqfrm=sec&isincountry=<isincountry>&cc=<cc>",
+		"actionBarTitleName": "City",
+		"tn": "local"
+	}, {
+		"uid": "Briefs-01",
+		"name": "Briefs",
+		"engName": "Briefs",
+		"defaulturl": "https://plus.timesofindia.com/toi-feed/brief/toia/section?lang=1&fv=663",
+		"actionBarTitleName": "Briefs"
+	}, {
+		"uid": "MyFeed-01",
+		"name": "My Feed",
+		"engName": "My Feed",
+		"defaulturl": "https://plus.timesofindia.com/toi-feed/feed/toia/listing/topnews?lang=1&fv=663&asset=bn,ad,ma&onlynp=true&isincountry=<isincountry>&cc=<cc>",
+		"actionBarTitleName": "My Feed"
+	}]
+}
