@@ -9,6 +9,12 @@
 		"defaulturl": "https://plus.timesofindia.com/toi-feed/feed/toia/listing/topnews?lang=1&fv=663&asset=bn,ad,ma,wd&isincountry=<isincountry>&cc=<cc>",
 		"actionBarTitleName": "Home"
 	}, {
+		"uid": "TOIPlus-01",
+		"name": "TOI +",
+		"engName": "TOI +",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01,category-TOIPlus-01.cms?platform=android&andver=600&adreqfrm=sec",
+		"actionBarTitleName": "Home"
+	}, {
 		"uid": "City-01",
 		"name": "City",
 		"engName": "City",
