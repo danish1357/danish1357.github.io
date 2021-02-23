@@ -9,18 +9,18 @@
 		"defaulturl": "https://plus.timesofindia.com/toi-feed/feed/toia/listing/topnews?lang=1&fv=663&asset=bn,ad,ma,wd&isincountry=<isincountry>&cc=<cc>",
 		"actionBarTitleName": "Home"
 	}, {
-		"uid": "TOIPlus-01",
-		"name": "TOI +",
-		"engName": "TOI +",
-		"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01,category-TOIPlus-01.cms?platform=android&andver=600&adreqfrm=sec",
-		"actionBarTitleName": "TOI +"
-	}, {
 		"uid": "City-01",
 		"name": "City",
 		"engName": "City",
 		"defaulturl": "https://timesofindia.indiatimes.com/feeds/newslistingfeedmc/feedtype-sjson,msid--2128932452,tag-alrt,uid-City-01,category-City-01,t-f.cms?platform=android&andver=648&adreqfrm=sec&isincountry=<isincountry>&cc=<cc>",
 		"actionBarTitleName": "City",
 		"tn": "local"
+	}, {
+		"uid": "TOIPlus-01",
+		"name": "TOI +",
+		"engName": "TOI +",
+		"defaulturl": "https://timesofindia.indiatimes.com/feeds/primenewslistingfeed/feedtype-sjson,msid-60478053,tag-primehome,uid-Plushome-01,category-TOIPlus-01.cms?platform=android&andver=600&adreqfrm=sec",
+		"actionBarTitleName": "TOI +"
 	}, {
 		"uid": "Briefs-01",
 		"name": "Briefs",
