@@ -1038,6 +1038,7 @@
 	}
 	,
 	"onBoardingLoginTranslations": {
+		"skipButtonText":"Skip",
 		"textVerifyNumber": "VERIFY YOUR NUMBER",
 		"messageEnterOTP": "Enter your OTP here",
 		"textResendOTP": "Resend OTP",
