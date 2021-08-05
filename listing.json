@@ -8,10 +8,7 @@
 		},
 		"nc_ads": {
 			"footer": "/7176/TOI_App_Android/TOI_APP_AOS_Notifications/TOI_App_AOS_NOTI_BTF"
-		},
-		"footer_exclusion_list": [
-			"AS"
-		]
+		}
 	},
 	"campaigns": {
 		"658477339": {
