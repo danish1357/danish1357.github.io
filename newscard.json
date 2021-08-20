@@ -1,8 +1,8 @@
 {
 	"fullPageAdConfig": {
-		"maximumAdsPerSession": 2,
-		"startSessionForAd": 3,
-		"sessionGapCount": 3,
+		"maximumAdsPerSession": 10,
+		"startSessionForAd": 1,
+		"sessionGapCount": 1,
 		"globalPageViews": 5,
 		"articleShowPageViews": 3,
 		"interstitialAdTypeEnabled": "customInterstitial"
