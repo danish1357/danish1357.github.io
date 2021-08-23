@@ -10,28 +10,8 @@
 	"adsPriority": [{
 			"type": "newsCard",
 			"brandLogo": "https://danish1357.github.io/card_logo.png",
-			"items": [,
+			"items": [
 		{
-			"type": "dfpAdCode",
-			"maximumAdsPerSession": 2,
-			"default":true,
-			"dfp": {
-				"dfpAdCode": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_NEW_INT",
-				"dfpAdSizes": [{
-						"width": 320,
-						"height": 480
-					},
-					{
-						"width": 300,
-						"height": 250
-					},
-					{
-						"width": 336,
-						"height": 280
-					}
-				]
-			}
-		},{
 				"template": "fullImage",
 				"image": "https://danish1357.github.io/card_bg.png",
 				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
@@ -87,6 +67,26 @@
 			"type": "dfpUrl",
 			"url": "https://m.timesofindia.com/toi_app_int_1x1_webview.cms",
 			"maximumAdsPerSession": 2
-		}
+		},{
+			"type": "dfpAdCode",
+			"maximumAdsPerSession": 2,
+			"default":true,
+			"dfp": {
+				"dfpAdCode": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_NEW_INT",
+				"dfpAdSizes": [{
+						"width": 320,
+						"height": 480
+					},
+					{
+						"width": 300,
+						"height": 250
+					},
+					{
+						"width": 336,
+						"height": 280
+					}
+				]
+			}
+		},
 	]
 }
