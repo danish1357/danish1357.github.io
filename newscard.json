@@ -29,11 +29,11 @@
 			}
 		},{
 			"type": "newsCard",
-			"brandLogo": "https://danish1357.github.io/card_logo.png",
+			"brandLogo": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/logo.png",
 			"items": [
 		{
 				"template": "fullImage",
-				"image": "https://danish1357.github.io/card_bg.png",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
 				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
 				"pixelUrl": "",
 				"cta": {
@@ -44,7 +44,7 @@
 				}
 			}, {
 				"template": "fullImage",
-				"image": "https://danish1357.github.io/card_bg.png",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
 				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
 				"pixelUrl": "",
 				"cta": {
@@ -55,7 +55,7 @@
 				}
 			}, {
 				"template": "fullImage",
-				"image": "https://danish1357.github.io/card_bg.png",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
 				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
 				"pixelUrl": "",
 				"cta": {
@@ -66,7 +66,7 @@
 				}
 			}, {
 				"template": "fullImage",
-				"image": "https://danish1357.github.io/card_bg.png",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
 				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
 				"pixelUrl": "",
 				"cta": {
