@@ -1,13 +1,74 @@
 {
-	"fullPageAdConfig": {
-		"maximumAdsPerSession": 10,
-		"startSessionForAd": 1,
-		"sessionGapCount": 1,
-		"globalPageViews": 5,
-		"articleShowPageViews": 3,
-		"interstitialAdTypeEnabled": "customInterstitial"
+	"defaultTriggers": {
+		"maxPerSession": 5,
+		"startAfterSession": 1,
+		"skipEverySession": 1,
+		"globalPV": 5,
+		"articlePV": 3,
+		"photoStoryPV": 15,
+		"photoGalleryPV": 20
 	},
 	"adsPriority": [{
+			"type": "nativeCreative",
+			"brandLogo": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/logo.png",
+			"items": [
+		{
+				"template": "fullImage",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
+				"deeplink": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+				"pixelUrl": "",
+				"cta": {
+					"ctaText": "KNOW MORE",
+					"ctaBackgroundColor": "#e21c22",
+					"ctaTextColor": "#ffffff",
+					"ctaUrl": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
+				}
+			}, {
+				"template": "fullImage",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
+				"deeplink": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+				"pixelUrl": "",
+				"cta": {
+					"ctaText": "KNOW MORE",
+					"ctaBackgroundColor": "#e21c22",
+					"ctaTextColor": "#ffffff",
+					"ctaUrl": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
+				}
+			}, {
+				"template": "fullImage",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
+				"deeplink": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+				"pixelUrl": "",
+				"cta": {
+					"ctaText": "KNOW MORE",
+					"ctaBackgroundColor": "#e21c22",
+					"ctaTextColor": "#ffffff",
+					"ctaUrl": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
+				}
+			}, {
+				"template": "fullImage",
+				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
+				"deeplink": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+				"pixelUrl": "",
+				"cta": {
+					"ctaText": "KNOW MORE",
+					"ctaBackgroundColor": "#e21c22",
+					"ctaTextColor": "#ffffff",
+					"ctaUrl": "toiapp://open-$|$-id=Ad-01-$|$-lang=1-$|$-displayName=Test Ad-$|$-url=https://gomechanic.in/delhi?default-slide1-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
+				}
+			}],
+			"maximumAdsPerSession": 2
+		},
+		{
+			"type": "customHtml",
+			"url": "https://mobileads.indiatimes.com//Mobile_Ads/Test/Test_APP_VideoInterstitial/13may21/index_responsive_new10.html",
+			"maximumAdsPerSession": 2
+		},
+		{
+			"type": "dfpUrl",
+			"url": "https://m.timesofindia.com/toi_app_int_1x1_webview.cms",
+			"maximumAdsPerSession": 2
+		},{
 			"type": "dfpAdCode",
 			"maximumAdsPerSession": 2,
 			"default":true,
@@ -27,66 +88,6 @@
 					}
 				]
 			}
-		},{
-			"type": "newsCard",
-			"brandLogo": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/logo.png",
-			"items": [
-		{
-				"template": "fullImage",
-				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
-				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
-				"pixelUrl": "",
-				"cta": {
-					"ctaText": "KNOW MORE",
-					"ctaBackgroundColor": "#e21c22",
-					"ctaTextColor": "#ffffff",
-					"ctaUrl": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
-				}
-			}, {
-				"template": "fullImage",
-				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
-				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
-				"pixelUrl": "",
-				"cta": {
-					"ctaText": "KNOW MORE",
-					"ctaBackgroundColor": "#e21c22",
-					"ctaTextColor": "#ffffff",
-					"ctaUrl": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
-				}
-			}, {
-				"template": "fullImage",
-				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
-				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
-				"pixelUrl": "",
-				"cta": {
-					"ctaText": "KNOW MORE",
-					"ctaBackgroundColor": "#e21c22",
-					"ctaTextColor": "#ffffff",
-					"ctaUrl": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
-				}
-			}, {
-				"template": "fullImage",
-				"image": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/image1.png",
-				"deeplink": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
-				"pixelUrl": "",
-				"cta": {
-					"ctaText": "KNOW MORE",
-					"ctaBackgroundColor": "#e21c22",
-					"ctaTextColor": "#ffffff",
-					"ctaUrl": "toiapp://open-$|$-id=Cricket-01-$|$-lang=1-$|$-displayName=Cricket-$|$-url=http://www.cricbuzz.com/-$|$-type=htmlview-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India"
-				}
-			}],
-			"maximumAdsPerSession": 2
-		},
-		{
-			"type": "customHtml",
-			"url": "https://mobileads.indiatimes.com//Mobile_Ads/Test/Test_APP_VideoInterstitial/13may21/index_responsive_new10.html",
-			"maximumAdsPerSession": 2
-		},
-		{
-			"type": "dfpUrl",
-			"url": "https://m.timesofindia.com/toi_app_int_1x1_webview.cms",
-			"maximumAdsPerSession": 2
 		}
 	]
 }
