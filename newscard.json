@@ -1,6 +1,6 @@
 {
 	"defaultTriggers": {
-		"maxPerSession": 5,
+		"maxPerSession": 8,
 		"startAfterSession": 0,
 		"skipEverySession": 0,
 		"globalPV": 5,
