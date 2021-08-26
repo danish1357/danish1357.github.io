@@ -1,8 +1,8 @@
 {
 	"defaultTriggers": {
 		"maxPerSession": 5,
-		"startAfterSession": 1,
-		"skipEverySession": 1,
+		"startAfterSession": 0,
+		"skipEverySession": 0,
 		"globalPV": 5,
 		"articlePV": 3,
 		"photoStoryPV": 15,
