@@ -11,6 +11,7 @@
 	"adsPriority": [{
 			"type": "nativeCreative",
 			"brandLogo": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/logo.png",
+		        "campId":"123",
 			"items": [
 		{
 				"template": "fullImage",
@@ -50,15 +51,18 @@
 		},
 		{
 			"type": "customHtml",
+			"campId":"124",
 			"url": "https://mobileads.indiatimes.com//Mobile_Ads/Test/Test_APP_VideoInterstitial/13may21/index_responsive_new10.html",
 			"maximumAdsPerSession": 2
 		},
 		{
 			"type": "dfpUrl",
+			"campId":"125",
 			"url": "https://m.timesofindia.com/toi_app_int_1x1_webview.cms",
 			"maximumAdsPerSession": 2
 		},{
 			"type": "dfpAdCode",
+			"campId":"126",
 			"isDefault":true,
 			"dfp": {
 				"dfpAdCode": "/7176/SUPERAPP_TOI_IOS/SUPERAPP_APP_TOI_IOS_OTHERS/TOI_SUP_APP_IOS_NEW_INT",
