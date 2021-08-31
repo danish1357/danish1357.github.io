@@ -10,7 +10,6 @@
 	},
 	"adsPriority": [{
 			"type": "nativeCreative",
-			"brandLogo": "https://mobileads.indiatimes.com/Web_Ads/Test/product/23aug21/logo.png",
 		        "campId":"123",
 			"items": [
 		{
